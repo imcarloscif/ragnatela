@@ -37,10 +37,12 @@ body {
   
 
 .link{
-    margin-left: 45%;
+    position: relative;
+    padding-left: 15%;
     padding-bottom: 50px;
     font-family: 'Open Sans', sans-serif;
     font-style:normal;
     font-size: 40px;
     color: #3bdb02;
+
 }
